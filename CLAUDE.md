@@ -8,10 +8,14 @@ A multi-article project defending a strict-1646-Westminster-Standards account of
 
 ## Current state of foundational docs — check before assuming any of this is final
 
-- `00-foundations/manifesto.md` — **not yet drafted**
+- `00-foundations/manifesto.md` — **drafted, in progress.** Thesis, confessional anchor, historical method, scope, and non-goals are in place. Still missing: a "Relation to Existing Treatments" section positioning the project against Myers/Belcher/McGraw and the wider contemporary covenant-theology field, and any reflection of the natural-law/natural-theology/political-theology synthesis currently being developed in `research/natural-law-synthesis-reading-map.md` — that material is deliberately not yet folded into the manifesto's main argument because the project owner is still reading his way to it (see collaboration note below).
 - `00-foundations/outline.md` — draft skeleton exists in the project TODO; not yet finalized as its own file
-- `00-foundations/bibliography.md` — **not yet drafted**; several contemporary authors listed in the TODO (Prakashpalan, Ruddell, Owen Anderson, Meyers, Smyth, Tomes, Weissman, Marino, Mattull) still need their specific published positions verified before they're cited — do not attribute claims to them from memory
+- `00-foundations/bibliography.md` — **not yet drafted**; several contemporary authors listed in the TODO (Prakashpalan, Ruddell, Owen Anderson, Meyers, Smyth, Tomes, Weissman, Marino, Mattull) still need their specific published positions verified before they're cited — do not attribute claims to them from memory. **Note the overlap:** Marino, Ruddell, Owen Anderson, and Tomes are also named in `research/natural-law-synthesis-reading-map.md` as contemporary Reformed-classicalist natural theology/apologetics voices — verifying them serves both lists at once, but they have not been researched yet either way.
 - `00-foundations/style-guide.md` — **not yet drafted** — see provisional rules below
+
+## How the project owner wants to work
+
+The project owner wants to do the primary theological reading and reasoning himself — Claude Code's job is scaffolding (reading maps, source location, summarizing, structuring, light drafting when explicitly asked), not authoring the constructive theological argument. Current production workflow: read a primary source → write a short micro-article reading note in `research/reading-notes/<strand>/` (template: `research/reading-notes/_template.md`) → once a strand has enough notes to show a pattern, synthesize → graduate mature material into a full `series-*` article through the six-lane pipeline below. Keep output visible at every stage rather than banking everything on one long reading project before anything gets written.
 
 ## Provisional house rules (supersede with `style-guide.md` once it exists)
 

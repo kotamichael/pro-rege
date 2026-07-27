@@ -1,0 +1,70 @@
+# Reading map: natural law/theology synthesis for the manifesto's "gap" argument
+
+Scratch working document, not for publication. Purpose: scaffold the reading the project owner is doing himself to fill the gap identified against Myers/Belcher/McGraw — a sustained natural-law argument spanning both Testaments, pinned to 1646 text, brought to bear charitably on Klinean two-kingdoms political theology. This is a reading plan and set of open questions, not a drafted argument — the synthesis itself is being reasoned out by the project owner as he reads.
+
+Four strands, as named in conversation. Titles marked **[CONFIRM]** are my best guess at what's meant and need a yes/no before anything gets built on them.
+
+## Workflow
+
+Read → micro-article → strand synthesis → full article. Micro-articles are one-per-source (or per chapter/lecture/quaestio) reading notes, written in `research/reading-notes/<strand>/`, using `research/reading-notes/_template.md`. They're where the actual reading and reasoning happens — summarize the source's own argument first, in your own words, before any use is made of it, then note where it supports or complicates the working hypothesis below. Once a strand has enough micro-articles to show a real pattern, pause and write a short synthesis note before moving to the next strand or graduating material into an actual `series-*` article (which then goes through the six-lane pipeline in CLAUDE.md). This keeps output visible at every stage rather than banking everything on one long reading project before anything gets written.
+
+Suggested starting point: Barker's *Natural Theology* ch. 1 or Burgess's *Vindiciæ Legis* Lecture VI — both already transcribed on pro-rege.com, both short, and both let you test-drive the micro-article format before tackling heavier scholastic Latin-in-translation material (Junius, Aquinas).
+
+## Strand 1 — Natural theology & the noetic effects of sin
+
+What's actually at stake: does fallen reason retain enough access to natural revelation to ground a "common," religiously-neutral civil realm (which is what Kline/VanDrunen's natural law needs to do the work they ask of it), or is natural knowledge of God real-but-severely-compromised in a way that undercuts that neutrality claim?
+
+- **Augustine** — *City of God* (esp. bks. 8, 11, 19 on natural knowledge of the true God among the philosophers, and the two cities); *Enchiridion*. Augustine grants real natural knowledge of God to the philosophers (Rom 1) but insists it terminates in idolatry/suppression apart from grace — the root of the whole "noetic effects" question.
+- **Aquinas** — *ST* I, qq. 1–13 (esp. q.12 on how we know God, analogical predication) and — this is probably the more load-bearing text for the political strand below — *ST* I-II, qq. 90–97 (the treatise on law: eternal, natural, human, divine). This is the text later Reformed scholastics (Junius, Turretin) are constantly in conversation with, positively and critically.
+- **Matthew Barker**, *Natural Theology* (1674), ch. 1 — **already transcribed on pro-rege.com** (2025/11/06 post). Good bridge text: a Puritan contemporary of Burgess working the same Romans 1 material Augustine and Aquinas anchor.
+- **Turretin** — *Institutes*, Topic I (on theology) — his qq. on the being/nature/content of natural theology and its limits since the fall; also wherever he treats natural law within his doctrine of the moral law (Topic XI, on the law of God, is the other place to check).
+- **Anthony Burgess**, *Vindiciæ Legis*, Lecture VI — **already transcribed on pro-rege.com**, directly on the law of nature written on the heart, its two elements (direction + obligation), and its perpetual binding force even on justified believers. This is a hinge text: it's simultaneously your natural-law source *and* already tied into the project's covenant-of-works/grace material via Burgess's anti-antinomian argument.
+- **Contemporary Reformed classicalists** — confirmed as: Matt Marino, Jonathan Tomes (spelling TBD), Todd Ruddell, Owen Anderson, James Anderson, John Fesko ("to an extent"), possibly other Greenville Presbyterian Theological Seminary faculty (unconfirmed, needs digging), and someone connected to the Junius Institute (likely Todd Rester or Andreas Beck, Calvin Theological Seminary — the same Rester who translated *The Mosaic Polity* above). **Important:** Marino, Tomes, Ruddell, and Owen Anderson are already on CLAUDE.md's list of contemporary authors whose specific published positions are not yet verified — the project's own standing rule is not to attribute claims to them from memory. Treat this whole list as a research task for later (a job for `historical-researcher`/`contemporary-interlocutor` once you're actually ready to engage them), not as reading to start with now. James Anderson (RTS Charlotte) and Fesko (WSC) are the two names here easiest to verify independently in the meantime.
+
+**Open questions to read with:**
+- Does Aquinas's natural law (ST I-II q.94) already build in enough dependence on grace/revelation for its *application* (not just its bare existence) that "neutral common kingdom" is a misreading of the very tradition Kline claims descent from?
+- Where exactly does Turretin locate the line between "natural theology exists and is real" and "natural theology, post-fall, is sufinsufficient to save or to found a religiously neutral public order"? Is there daylight there that Kline's "common kingdom" needs but doesn't have?
+
+## Strand 2 — Scholastic politics of natural law
+
+What's actually at stake: whether the Reformed political tradition's own natural law was ever construed as an independent, religiously neutral sphere insulated from Christ's mediatorial government — or whether it was always located *within* a providential/covenantal frame that a "common kingdom" reading anachronizes.
+
+- **Calvin** — *Institutes* IV.20 (civil government) — the foundational Reformed locus; note his own qualification that natural law's precepts, though real, need the moral law's clarification for fallen consciences (Inst. II.8.1, on the use of the Decalogue as a "mirror").
+- **Junius** — Franciscus Junius, *The Mosaic Polity* (*De Politiae Mosis Observatione*, 1593; ET Todd M. Rester, CLP Academic, 2015) — **confirmed as primary**. This is the direct scholastic-era treatment of how Israel's judicial law relates to natural law and general equity, i.e., the primary-source background to WCF 19.4's "general equity" clause that the whole 2K/theonomy/general-equity debate turns on. Also very likely relevant: Junius's *A Treatise on True Theology* (*De Vera Theologia*, 1594; ET David C. Noe, Reformation Heritage Books, 2014) — this is where Junius develops the archetypal/ectypal theology distinction and treats natural vs. supernatural theology directly, i.e., a systematic locus with real natural-theology content, which may be the "systematic with pieces of this in it" you were recalling. **[CONFIRM]** before treating this as settled — flagging as the likely match, not yet verified against your memory of it.
+- **Althusius** — Johannes Althusius, *Politica* (1603; ET Frederick S. Carney, Liberty Fund, abridged; full new translation by Jeffrey Veenstra, 2020s). Covenantal/federal political theory grounded in natural law and consent via "symbiotic" associations — a major independent (non-Israelite-typology-dependent) Reformed natural-law political theory worth having as a comparison point.
+- **Turretin** — wherever he treats the civil magistrate and natural law within his broader ethics/law material (cross-reference with Strand 1 above).
+- **Gillespie** — George Gillespie, *Aaron's Rod Blossoming* (already in the project's bibliography) — the civil/ecclesiastical distinction and the Sanhedrin question; check specifically what role, if any, natural law plays in his argument versus purely positive Mosaic institution.
+- **Bannerman** — *Church of Christ* (already in the project's bibliography) — parallel material on the church's spiritual, non-civil power.
+
+**Open questions to read with:**
+- Junius distinguishes natural, common (gentile), and proper (peculiarly Israelite) judicial law — does that three-fold distinction actually support Kline/VanDrunen's common-kingdom/redemptive-kingdom split, or does it cut against it by keeping all three grounded in the same single moral order under God, rather than two separate "kingdoms" with two separate warrants?
+- Does Althusius's natural law political theory ever get *religiously neutral* in Kline's sense, or is it consent-and-covenant-structured in a way that's already thicker than "common" natural law needs to be?
+
+## Strand 3 — American Covenanter political theology
+
+What's actually at stake: this is the sharpest possible contrast case to "common kingdom" theology — a Reformed political theology built explicitly on Christ's own mediatorial dominion over the nations, not a natural-law sphere insulated from his special kingship.
+
+- **William Symington**, *Messiah the Prince: or, The Mediatorial Dominion of Jesus Christ* (1839). High-confidence title/date. The central primary text for this strand — Christ's headship over civil society grounded directly in his mediatorial office, not merely his office as Creator/providential ruler common to all.
+- **Alexander McLeod** — **[CONFIRM]** exact title; my best recollection is *Messiah, Governor of the Nations of the Earth* (published from an 1803 sermon series), but verify before citing. McLeod (American RPCNA/Covenanter minister, Reformed Presbytery of New York, prominent anti-slavery preacher) is the American extension of the Scottish Covenanter mediatorial-kingship tradition.
+- Possible further reading once these two are done: later American Covenanter systematics (J. M. Willson, David Steele) if you want the tradition's own internal development, not just its founding statements — flagging as a further-research item, not yet verified as existing/relevant.
+
+**Open questions to read with:**
+- Symington and McLeod ground civil obligation in Christ's *mediatorial* kingship specifically (not merely his kingship as eternal Son/Creator) — does this actually require a covenant-theology commitment (i.e., does it only work if the nations are, in some sense, under the covenant of grace's reach, not merely natural law) in a way that would need explicit coordination with the manifesto's covenant-of-grace/administration argument, or can it stand on natural law alone?
+- Where, if anywhere, do Symington or McLeod interact with (or anticipate) anything like a common/redemptive kingdom distinction, even to reject it? Or is the concept simply foreign to their whole framework?
+
+## Strand 4 — Contemporary interaction: Van Til
+
+What's actually at stake: Van Til's critique of natural theology's claimed neutrality is a live tension with *both* (a) the Reformed-classicalist retrieval project in Strand 1 and (b) Kline's own "common kingdom," since Kline's common-grace/common-kingdom theology was itself formed partly in a Van Tilian environment at Westminster.
+
+- **Van Til** — *Introduction to Systematic Theology* (esp. the sections on natural theology and the noetic effects of sin) and *Common Grace and the Gospel* — his argument that "neutral" natural theology/natural law, considered in abstraction from one's fundamental religious commitment (regenerate vs. unregenerate presupposition), is an illusion; there is no religiously neutral common ground, even in the civil/natural realm.
+- Historical-genealogical question worth having in view (Series IV territory more than the manifesto): Kline was Van Til's colleague/successor context at Westminster: does Kline's "common kingdom" actually honor Van Til's anti-neutrality argument, or does it quietly reintroduce the neutral common ground Van Til spent his career denying? This is a real, documented tension some critics (e.g., some of the Van Tilian voices at reformedforum.org/Tipton, per the earlier research) already press — worth reading them once the primary Van Til material is in hand, rather than starting from secondary polemics.
+
+**Open questions to read with:**
+- If Van Til is right that there's no religiously neutral common ground, does that sink the "common kingdom" project outright, or only its *epistemological* framing (leaving room for a "common kingdom" that's admittedly not neutral but still distinct from the redemptive kingdom on other grounds)?
+- Is there a way to hold Van Til's anti-neutrality point together with Strand 1's Augustine/Aquinas/Turretin material (real-but-impaired natural knowledge), or are they actually in tension with each other too, not just with Kline?
+
+## How the four strands might connect — a hypothesis to test, not a conclusion
+
+One possible shape (yours to confirm, revise, or discard as you read): Kline/VanDrunen's "common kingdom" needs natural law to be (a) epistemically accessible in a religiously neutral way across regenerate/unregenerate alike, and (b) politically independent of Christ's mediatorial, redemptive kingship — a separate warrant for civil order. If Strand 1 (Augustine/Aquinas/Turretin on the noetic effects of sin) denies (a), and Strands 2–3 (the Reformed political tradition from Junius/Althusius through the American Covenanters) show natural law's civil authority was never actually separated from Christ's own government of the nations, then "common kingdom" theology isn't a small corollary of republication — it rests on a picture of natural law's neutrality and independence the Reformed tradition itself, on its own historical terms, didn't hold. Van Til's critique (Strand 4) would then be less an outside contemporary check and more a formal statement of the same problem the older material already demonstrates historically.
+
+This is a real thesis-shape, but it's a hypothesis — the actual reading may complicate or overturn parts of it (e.g., Aquinas's or Junius's texts may turn out to support more "neutrality" than this expects). Flag anywhere the sources push back on it rather than smoothing over the friction.
