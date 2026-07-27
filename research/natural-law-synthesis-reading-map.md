@@ -25,6 +25,17 @@ What's actually at stake: does fallen reason retain enough access to natural rev
 - Does Aquinas's natural law (ST I-II q.94) already build in enough dependence on grace/revelation for its *application* (not just its bare existence) that "neutral common kingdom" is a misreading of the very tradition Kline claims descent from?
 - Where exactly does Turretin locate the line between "natural theology exists and is real" and "natural theology, post-fall, is sufinsufficient to save or to found a religiously neutral public order"? Is there daylight there that Kline's "common kingdom" needs but doesn't have?
 
+### Exegetical grounding: Romans 1–3
+
+The whole strand answers to this text — general revelation suppressed (Rom 1:18-32), the law written on Gentile hearts and conscience (Rom 2:14-15), and universal sinfulness closing every mouth before it opens onto grace (Rom 3:9-20). This is exegete-lane territory (see `.claude/agents/exegete.md`, updated 2026-07-27 to track Rom 1-3 alongside its existing anchors) as much as it is natural-theology reading:
+
+- **Stephen Charnock**, *The Existence and Attributes of God* (1682) — the classic Puritan natural-theology treatment of God's existence and attributes as known from reason and creation; a heavier, more systematic companion to Barker.
+- **John Brown of Haddington**, *A Compendious View of Natural and Revealed Religion* (1782, relevant sections) — a later (Associate/Secession-tradition) Scottish digest of exactly this natural/revealed-religion distinction.
+- **Matthew Poole**, *Annotations upon the Holy Bible* (relevant sections on Rom 1-3) — already a presence on pro-rege.com; note *Synopsis Criticorum* (Latin, the massive critical compilation already excerpted there, e.g. the Proverbs posts) and the English *Annotations* are two different Poole works — confirm which is meant/available before citing.
+- **Charles Hodge**, *Commentary on the Epistle to the Romans* — standard 19th-c. Reformed reference; also the same Hodge whose "law of Moses as re-enactment of the covenant of works" view is already flagged in Series IV material, so his Romans commentary is worth reading with that other position of his in view.
+- **John Brown of Wamphray**, *An Exposition of the Epistle of Paul to the Romans, with Large Practical Observations* (delivered as lectures; published posthumously 1766) — **CONFIRMED** via multiple sources. Wamphray (d. 1679) was a favorite student of Rutherford and a Covenanter controversialist; this is his one major NT exposition.
+- **John Brown of Edinburgh** (1784–1858, grandson of Brown of Haddington), *Analytical Exposition of the Epistle of Paul the Apostle to the Romans* (1857) — **CONFIRMED**; Spurgeon called it "among the first of the first class." Reading Wamphray and Edinburgh side by side on the same epistle, two centuries apart, is itself a useful internal-tradition comparison.
+
 ## Strand 2 — Scholastic politics of natural law
 
 What's actually at stake: whether the Reformed political tradition's own natural law was ever construed as an independent, religiously neutral sphere insulated from Christ's mediatorial government — or whether it was always located *within* a providential/covenantal frame that a "common kingdom" reading anachronizes.
