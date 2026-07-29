@@ -2,7 +2,7 @@
 
 **Full citation:** Anthony Burgess, *Vindiciæ Legis: or, a Vindication of the Moral Law and the Covenants, from the Errors of Papists, Arminians, Socinians, and more especially, Antinomians. In XXX. Lectures, Preached at Laurence-Jury, London*, Lecture VI. Already transcribed at pro-rege.com/2025/12/12/how-is-this-law-said-to-be-written-in-their-hearts-burges/ (that transcription is the source text to read — no need to hunt an original scan).
 
-**Read on:** [date]
+**Read on:** 7/29/26
 
 ## Context assembled before reading (2026-07-28) — read Burgess first, independently, before the secondary material below
 
@@ -26,14 +26,21 @@
 
 ## What the source actually argues
 
-[In your own words, after reading — not a summary I generate for you. What's the
-argument, in its own terms, before any use is made of it? A paragraph or two.]
+
 
 ## Key quotes
 
-> [quote 1, with page/location]
+> In the next place, there are two consequents of the Law which are ad bene esse, ‘that the Law may be better obeyed’; and this indeed turns the Law into a covenant, which is another notion upon it, as afterwards is to be shown. Now as for the sanction of the Law by way of a promise, that is a mere free thing; God, by reason of that dominion which he had over man, might have commanded his obedience, and yet never have made a promise of eternal life unto him. —[Pro Rege transcription](https://pro-rege.com/2025/12/12/how-is-this-law-said-to-be-written-in-their-hearts-burges/)
 
-> [quote 2, with page/location]
+> The differences of its being in Adam and in us. This is necessary to observe; for it was perfectly implanted in Adam’s heart, but we have only some fragments, and a mere shadow of it left in us. —ibid
+
+> Some bind [The Law of Nature] by reason in every man: but this is very uncertain, and one man’s reason is contrary to another’s, and one man’s conscience is larger than another’s; even as it is with measures in diverse countries, though they have the same name, as a bushel, etc. yet they are different in quantity, one is larger than another. —ibid
+
+> Lastly, Others bound it by the will of God, declared and manifested to Noah in seven precepts, and afterwards to Moses in the Ten Commandments: but these extend the Law of Nature not only to first principles, but conclusions also deduced from thence. —ibid
+
+> The obligation of it, when the Law of Nature does bind: and that is from God the author of it, God only is under no law. Every believer, though justified by Christ, is under the Moral Law of Moses, as also the law of Nature: but now this Law of Nature does not so properly bind, as it’s man’s reason or conscience, as that it is the vicegerent of God, or a command from him: and thus Cain by the Law of Nature found a tie upon him not to sin, and guilt because he did sin in murdering his brother, although there was not Moral Law as yet given. It is true, indeed, our Divines do well reprove the papists, for calling all that time from Adam to Moses, as state, or Law of Nature: and this the papists do, that therefore to offer sacrifice unto God may be proved from the Law of Nature; whereas those sacrifices being done in faith, had the word of God, otherwise we were bound still to offer lambs and kids to God, which they deny.
+
+> Does not Nature condemn lying, cozening in your trades, lusts, and uncleanness?
 
 ## Bearing on the project's hypothesis
 
@@ -44,8 +51,11 @@ that doesn't cooperate with the thesis is more valuable noticed than smoothed ov
 
 ## Open questions raised
 
-- [question 1]
-- [question 2]
+- Would be interested in more detail regarding common notions, the medium etc. 
+- Want to know more about the distinction between speculative principles of natural law and practical. For instance, perhaps he means the same common notion can imply speculative import and practical: e.g. speculative: that there is a God; practical: That God should be worshipped. Seems the practical is somewhat practical in itself and vice versa for the practical.
+- Burgess mentions almost in passing that only fragments of the Law of Nature as it was given to Adam remain in us. How extensive is the reduction/corruption in us post-fall? What remains? What is the nature of the corruption? In what way is it reduced, e.g. categorically, quantitatively?
+- "Lastly, Others bound it by the will of God, declared and manifested to Noah in seven precepts, and afterwards to Moses in the Ten Commandments: but these extend the Law of Nature not only to first principles, but conclusions also deduced from thence." I'm not entirely sure what Burgess means by conclusions vs first principles here. I think he means these are too defined to rest at the level of common notions, we would agree they are more like summations of the moral law.
+- In the quote above, regarding Cain having from nature a tie not to sin and guilt for having murdered, is Moral Law being used to refer to the Decalogue? Or just that there was not yet a divine command positively given yet not to murder (as there was given to Noah)? Seems that if the former, God had at least warned him that the fruit of his anger (implied to be murder) ought to be avoided. Maybe this fits the bill as a divine precept prohibiting murder?
 
 ## Confidence / follow-up needed
 
