@@ -19,7 +19,7 @@ See `00-foundations/manifesto.md` for the full statement.
 
 ## How the project owner wants to work
 
-The project owner wants to do the primary theological reading and reasoning himself — Claude Code's job is scaffolding (reading maps, source location, summarizing, structuring, light drafting when explicitly asked), not authoring the constructive theological argument. Current production workflow: read a primary source → write a short micro-article reading note in `research/reading-notes/<strand>/` (template: `research/reading-notes/_template.md`) → once a strand has enough notes to show a pattern, synthesize → graduate mature material into a full `series-*` article through the six-lane pipeline below. Keep output visible at every stage rather than banking everything on one long reading project before anything gets written.
+The project owner wants to do the primary theological reading and reasoning himself — Claude Code's job is scaffolding (reading maps, source location, summarizing, structuring, light drafting when explicitly asked), not authoring the constructive theological argument. Current production workflow: read a primary source → write a short reading note in `research/reading-notes/<strand>/` (template: `research/reading-notes/_template.md`) → once a strand has enough notes to show a pattern, synthesize → graduate mature material into a full `series-*` article through the six-lane pipeline below. Keep output visible at every stage rather than banking everything on one long reading project before anything gets written.
 
 ## Provisional house rules (supersede with `style-guide.md` once it exists)
 

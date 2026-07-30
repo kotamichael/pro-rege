@@ -11,4 +11,4 @@ Already noted in the project's founding conversation and `CLAUDE.md`'s bibliogra
 
 ## How this feeds the project
 
-As chapters get transcribed for Berith Press, add a micro-article here (same template as `research/reading-notes/_template.md`) for each — reading notes on Gillespie's own argument, not the transcription work itself. These will eventually feed a Series I or II article on the covenant of redemption/grace relationship, once enough accumulate.
+As chapters get transcribed for Berith Press, add a reading note here (same template as `research/reading-notes/_template.md`) for each — notes on Gillespie's own argument, not the transcription work itself. These will eventually feed a Series I or II article on the covenant of redemption/grace relationship, once enough accumulate.
