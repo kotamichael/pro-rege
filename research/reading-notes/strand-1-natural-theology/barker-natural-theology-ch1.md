@@ -16,12 +16,11 @@
 
 ## What the source actually argues
 
-[In your own words, after reading — not a summary I generate for you. What's the
-argument, in its own terms, before any use is made of it? A paragraph or two.]
+Intro: seems to argue that the light shines just as brightly in the 
 
 ## Key quotes
 
-> [quote 1, with page/location]
+> For as a law is directive and preceptive, it ministers knowledge, and commands practice: so was the Law of Nature to the Gentiles; it had a light in it whereby they might attain some knowledge of God; and it had a force in it to urge them upon the performance of duty and service to Him, answerable to that knowledge.
 
 > [quote 2, with page/location]
 
@@ -34,7 +33,7 @@ that doesn't cooperate with the thesis is more valuable noticed than smoothed ov
 
 ## Open questions raised
 
-- [question 1]
+- Calls "that which may be known of God" (Rom. 1:19) the Law of Nature. I would've normally filed this under Natural Theology as it didn't at first strike me as a practical knowledge, but a speculative knowledge. But I think this move may prove to connect natural law and natural theology in a most helpful way as both flowing from a revelation of God in the heart of man as the common source of both. **(Carried forward as a standing strand-level question in `research/natural-law-synthesis-reading-map.md`, Strand 1 — see it there for how this connects to Burgess's own common-notions structure, and watch for it in every subsequent source.)**
 - [question 2]
 
 ## Confidence / follow-up needed
