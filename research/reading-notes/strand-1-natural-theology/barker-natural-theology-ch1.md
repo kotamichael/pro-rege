@@ -22,7 +22,7 @@ Intro: seems to argue that the light shines just as brightly in the
 
 > For as a law is directive and preceptive, it ministers knowledge, and commands practice: so was the Law of Nature to the Gentiles; it had a light in it whereby they might attain some knowledge of God; and it had a force in it to urge them upon the performance of duty and service to Him, answerable to that knowledge.
 
-> [quote 2, with page/location]
+> By natural theology, that all may understand, I mean that knowledge of God, and our duty to Him, which the light of nature may lead man up to, and which is concreated with his soul. The image of God upon man in his first creation, consisted in knowledge as well as holiness; and the knowledge Adam had of his creator, was partly by the character of his being engraven upon his soul, which is by some styled an implanted word; and partly by what the large power of his intellectual faculty might gather from the works of creation; by both which he was led to God as his ultimate end. Now the light of nature, as it is now found in man, is the dark and weak remainders of this image still; which the Apostle says the heathens had, who had nothing of the external Word, either by writing, or any other way of revelation.
 
 ## Bearing on the project's hypothesis
 
@@ -33,7 +33,7 @@ that doesn't cooperate with the thesis is more valuable noticed than smoothed ov
 
 ## Open questions raised
 
-- Calls "that which may be known of God" (Rom. 1:19) the Law of Nature. I would've normally filed this under Natural Theology as it didn't at first strike me as a practical knowledge, but a speculative knowledge. But I think this move may prove to connect natural law and natural theology in a most helpful way as both flowing from a revelation of God in the heart of man as the common source of both. **(Carried forward as a standing strand-level question in `research/natural-law-synthesis-reading-map.md`, Strand 1 — see it there for how this connects to Burgess's own common-notions structure, and watch for it in every subsequent source.)**
+- Calls "that which may be known of God" (Rom. 1:19), as it is written in the heart of man, the Law of Nature. I would've normally filed this under Natural Theology as it didn't at first strike me as a practical knowledge, but a speculative knowledge. But I think this move may prove to connect natural law and natural theology in a most helpful way as both flowing from a revelation of God in the heart of man as the common source of both. **(Carried forward as a standing strand-level question in `research/natural-law-synthesis-reading-map.md`, Strand 1 — see it there for how this connects to Burgess's own common-notions structure, and watch for it in every subsequent source.)**
 - [question 2]
 
 ## Confidence / follow-up needed
